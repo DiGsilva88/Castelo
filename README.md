@@ -1,6 +1,6 @@
-=====================================================
-  PROJECTO CASTELO — PADRÃO SINGLETON
-=====================================================
+
+PROJECTO CASTELO — PADRÃO SINGLETON
+
 
 DESCRIÇÃO
 ---------
